@@ -35,19 +35,17 @@ def format_repo_list(repos):
         name = repo.get("name")
         if not name:
             continue
-        if name in [".codemeta", ".github", ".oss", ".oss-strategy"]
+        if name in [".codemeta", ".github", ".oss", ".oss-strategy"]:
+            continue
         desc = repo.get("description", "")
-        url = repo.get("html_url", "https://github.com/BAMresearch")
+        url = repo.get("html_url", "https://github.com/{ORG_NAME}")
         if desc:
             lines.append(f"- [{name}]({url}) – {desc}")
         else:
             lines.append(f"- [{name}]({url})")
     return "\n".join(lines)
 
-- [.codemeta](https://github.com/BAMresearch/.codemeta) – BAM CodeMeta Guidelines
-- [.github](https://github.com/BAMresearch/.github) – None
-- [.oss](https://github.com/BAMresearch/.oss) – Introduction and self-commitment of BAM
-- [.oss-strategy]
+
 def update_readme(formatted_repos):
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
