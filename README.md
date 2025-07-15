@@ -1,6 +1,8 @@
 # Awesome BAMresearch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of repositories, tools, and projects maintained by the BAMresearch organization researchers.## List of repositories
+A curated list of repositories, tools, and projects maintained by the BAMresearch organization researchers.
+
+## List of repositories
 
 - [.codemeta](https://github.com/BAMresearch/.codemeta) – BAM CodeMeta Guidelines
 - [.github](https://github.com/BAMresearch/.github) – None
