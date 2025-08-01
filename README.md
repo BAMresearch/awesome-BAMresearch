@@ -17,6 +17,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 - [automatic-sem-image-segmentation](https://github.com/BAMresearch/automatic-sem-image-segmentation) – Workflow for Simulation and Automatic Semantic Segmentation of Electron Microscopy Images
 - [autoplex](https://github.com/BAMresearch/autoplex) – Code for automated fitting of machine learned interatomic potentials.
 - [awesome-BAMresearch](https://github.com/BAMresearch/awesome-BAMresearch) – A curated list of repositories, tools, and projects maintained by the BAMresearch organization researchers.
+- [b-least-analysis](https://github.com/BAMresearch/b-least-analysis) – Calibration tool for measurement data with ISO 6143-based model fitting and uncertainty estimation.
 - [BallTracker](https://github.com/BAMresearch/BallTracker) – Tracks a ball to calibrate an axis. For parallel beam geometries.
 - [bam-load-based-testing](https://github.com/BAMresearch/bam-load-based-testing)
 - [bam-masterdata](https://github.com/BAMresearch/bam-masterdata) – Repository containing the masterdata definitions of the BAM Data Store project
@@ -49,6 +50,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 - [FenicsConcrete](https://github.com/BAMresearch/FenicsConcrete) – FE model representing the hardening of concrete
 - [FenicsXConcrete](https://github.com/BAMresearch/FenicsXConcrete)
 - [FEniQS](https://github.com/BAMresearch/FEniQS) – A library for modelling static/quasi-static structural mechanics problems in FEniCS.
+- [Fire_Propagation](https://github.com/BAMresearch/Fire_Propagation) – Code base for the creation of a fire propagation dataset by combining burned area shapefiles and active fire detections.
 - [gaden2](https://github.com/BAMresearch/gaden2) – GADEN: A 3D Gas Dispersion Simulator for Mobile Robot Olfaction in Realistic Environments
 - [GaussianBeamProfile](https://github.com/BAMresearch/GaussianBeamProfile) – Gaussian Beam Profile calculator for 2PP
 - [harvard_phd_ioc](https://github.com/BAMresearch/harvard_phd_ioc) – EPICS IOC for the Harvard PhD syringe pump connected via a network-to-serial converter
@@ -71,6 +73,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 - [masterdata-checker](https://github.com/BAMresearch/masterdata-checker) – Python package used to check the correctness of a given Masterdata definitions file with respect to the entities already registered in the BAM Data Store.
 - [masterdata-generator](https://github.com/BAMresearch/masterdata-generator) – A minimal cookiecutter template to generate repositories for BAM Masterdata definitions.
 - [masterdata-template](https://github.com/BAMresearch/masterdata-template) – A template to create and work with data models in the BAM Data Store
+- [masterdata_test](https://github.com/BAMresearch/masterdata_test) – Repository for the webinar IV, phase IV.
 - [McDLS](https://github.com/BAMresearch/McDLS) – Employs a Monte Carlo method to derive size distributions from dynamic light scattering (DLS) data. Based on https://github.com/BAMresearch/McSAS
 - [McSAS](https://github.com/BAMresearch/McSAS) – A tool for extracting form-free size distributions of small-angle scattering (SAS) patterns using a Monte-Carlo method.
 - [McSAS3](https://github.com/BAMresearch/McSAS3) – Refactored McSAS for analysis of X-ray and neutron scattering data
@@ -83,7 +86,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 - [NetworkedPortenta](https://github.com/BAMresearch/NetworkedPortenta) – Arduino IDE code to expose the I/O of an Arduino Portenta Machine Control to an ethernet network. 
 - [NetworkedPortentaIOC](https://github.com/BAMresearch/NetworkedPortentaIOC) – EPICS IOC for addressing the networked portenta. Simple, functional version for starters... we need control now. 
 - [NFDI4IngHPCWorkflows](https://github.com/BAMresearch/NFDI4IngHPCWorkflows) – Within the NFDI4Ing project strategies to publish research data (which includes software and workflows) in a Findable, Accessible, Interoperable and Reusable (FAIR) manner are being developed. For HPC simulations one challenge is the often unique software stack. In this repository, we would like to investigate how (docker, apptainer) containers can be build in order to improve the FAIRness of workflows in the HPC context.
-- [NFDI4IngModelValidationPlatform](https://github.com/BAMresearch/NFDI4IngModelValidationPlatform) – A collection of workflows and documentation for the validation of constitutive models
+- [NFDI4IngModelValidationPlatform](https://github.com/BAMresearch/NFDI4IngModelValidationPlatform) – A collection of benchmarks and methdology for provenance tracking for the validation of simulation models
 - [NFDI4IngScientificWorkflowRequirements](https://github.com/BAMresearch/NFDI4IngScientificWorkflowRequirements) – This is a repository to discuss, collect and store the requirements for scientific workflow systems
 - [NibelungenbrueckeDemonstrator](https://github.com/BAMresearch/NibelungenbrueckeDemonstrator) – Nibelungenbrücke Demonstrator for the SPP100+
 - [nomad-parser-fireworks](https://github.com/BAMresearch/nomad-parser-fireworks) – A NOMAD parser plugin for the FireWorks output JSON file.
@@ -93,6 +96,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 - [OOMMF-temperature](https://github.com/BAMresearch/OOMMF-temperature) – Provides input parameter files (MIF) to include temperature in micromagnetc simulations with the Object Oriented Micromagnetic Framework (OOMMF).
 - [openbis-upload-helper](https://github.com/BAMresearch/openbis-upload-helper) – Upload Helper Tool and Parsers for OpenBIS in the BAM Data Store
 - [openBIS2SQLite](https://github.com/BAMresearch/openBIS2SQLite)
+- [Overview-of-SAXSess-Measurements](https://github.com/BAMresearch/Overview-of-SAXSess-Measurements) – Jupyter Notebooks for giving an overview or generating overview plots
 - [parallel-abus](https://github.com/BAMresearch/parallel-abus) – This code is a Python implementation of the parallelized adaptive Bayesian Updating with Structural reliabilty methods.
 - [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on "Austin, J., Minelli, C., Hamilton, D. et al. Nanoparticle number concentration measurements by multi-angle dynamic light scattering. J Nanopart Res 22, 108 (2020)." https://doi.org/10.1007/s11051-020-04840-8
 - [PassiveSmartDust](https://github.com/BAMresearch/PassiveSmartDust) – An adjustable image segmentation filter, combined with data procession used in the PSD project.
@@ -105,6 +109,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 - [PrusaSlicer](https://github.com/BAMresearch/PrusaSlicer) – G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [pybis_workshop](https://github.com/BAMresearch/pybis_workshop) – This is the material for the pyBIS-Workshops of the project BAM Data Store.
 - [pymatgen](https://github.com/BAMresearch/pymatgen) – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- [pyrxiv](https://github.com/BAMresearch/pyrxiv) – A Python package for retrieving arXiv papers and filter them out with respect to some specific regex pattern.
 - [pyscicat](https://github.com/BAMresearch/pyscicat)
 - [pytest-notebook](https://github.com/BAMresearch/pytest-notebook) – A pytest plugin for regression testing and regenerating Jupyter Notebooks
 - [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
@@ -138,6 +143,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 - [wildfire_prop_database](https://github.com/BAMresearch/wildfire_prop_database) – Example for merging swath paths into a single scene and extracting a burned area polygon from the resulting image. 
 - [xdmfConverter](https://github.com/BAMresearch/xdmfConverter) – convert xdmf file written by dolfin including multiple attributes over time to a xdmf file summarizing all attributes for one time step together allowing additional filter functions from paraview 
 - [yapy-cookiecutter](https://github.com/BAMresearch/yapy-cookiecutter) – Yet Another cookiecutter template for Python projects in data science & processing
+- [yapy-copier-template](https://github.com/BAMresearch/yapy-copier-template) – Yet Another Python Copier template for a Python modules and applications focussing on data science, processing and analysis.
 - [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement)
 
 ## License
