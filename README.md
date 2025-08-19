@@ -16,8 +16,6 @@ This list is updated once every month to record new developments at BAM.
 - [HavNegpy](https://github.com/BAMresearch/HavNegpy) – HavNegpy is a python fit package to anaylze dielectric spectroscopy data. HavNeg is an acronym for Havriliak and Negami function, and the fit module is written specifically to analyze the dielectric loss and real part of AC conductivity data.
 - [image_processing_ioc](https://github.com/BAMresearch/image_processing_ioc) – IOC that takes one or two files and exposes image analysis results. 
 - [jupyter-analysis-tools](https://github.com/BAMresearch/jupyter-analysis-tools) – Common Python helpers for data analysis notebooks in GIT repositories.
-- [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
-- [LobsterPy](https://github.com/BAMresearch/LobsterPy) – Package to automatically analyze Lobster runs.
 - [MoDaCor](https://github.com/BAMresearch/MoDaCor) – new modular data corrections for any neutron or xray technique that produces 1D or 2D scattering/diffraction/imaging data.
 - [Overview-of-SAXSess-Measurements](https://github.com/BAMresearch/Overview-of-SAXSess-Measurements) – Jupyter Notebooks for giving an overview or generating overview plots.
 - [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on [https://doi.org/10.1007/s11051-020-04840-8]()(https://doi.org/10.1007/s11051-020-04840-8).
@@ -30,6 +28,10 @@ This list is updated once every month to record new developments at BAM.
 - [WavenumberAnalysis](https://github.com/BAMresearch/WavenumberAnalysis) – This project allows to perform wavenumber mapping using Matlab.
 - [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
 - [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
+
+#### LobsterPy
+- [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
+- [LobsterPy](https://github.com/BAMresearch/LobsterPy) – Package to automatically analyze Lobster runs.
 
 ## Research Data Management
 
@@ -48,6 +50,11 @@ This list is updated once every month to record new developments at BAM.
 - [masterdata_test](https://github.com/BAMresearch/masterdata_test) – Repository for the webinar IV, phase IV.
 - [openbis-upload-helper](https://github.com/BAMresearch/openbis-upload-helper) – Upload Helper Tool and Parsers for OpenBIS in the BAM Data Store.
 - [openBIS2SQLite](https://github.com/BAMresearch/openBIS2SQLite)
+
+#### NFDI4Ing
+- [NFDI4IngHPCWorkflows](https://github.com/BAMresearch/NFDI4IngHPCWorkflows) – In this repository, we would like to investigate how (docker, apptainer) containers can be build in order to improve the FAIRness of workflows in the HPC context.
+- [NFDI4IngModelValidationPlatform](https://github.com/BAMresearch/NFDI4IngModelValidationPlatform) – A collection of benchmarks and methdology for provenance tracking for the validation of simulation models.
+- [NFDI4IngScientificWorkflowRequirements](https://github.com/BAMresearch/NFDI4IngScientificWorkflowRequirements) – This is a repository to discuss, collect and store the requirements for scientific workflow systems
 
 ## Machine Learning / AI
 
@@ -145,8 +152,7 @@ This list is updated once every month to record new developments at BAM.
 - [Advanced_Jobflow_Tutorial](https://github.com/BAMresearch/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science
 - [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
 - [atomate2](https://github.com/BAMresearch/atomate2) – atomate2 is a library of computational materials science workflows
-- [NFDI4IngHPCWorkflows](https://github.com/BAMresearch/NFDI4IngHPCWorkflows) – In this repository, we would like to investigate how (docker, apptainer) containers can be build in order to improve the FAIRness of workflows in the HPC context.
-- 
+
 #### Infrastructure - Wildfire Progression 
 - [Fire_Propagation](https://github.com/BAMresearch/Fire_Propagation) – Code base for the creation of a fire propagation dataset by combining burned area shapefiles and active fire detections.
 - [wildfire_prop_database](https://github.com/BAMresearch/wildfire_prop_database) – Example for merging swath paths into a single scene and extracting a burned area polygon from the resulting image. 
@@ -162,9 +168,8 @@ This list is updated once every month to record new developments at BAM.
 - [MultilayerInternalStresses](https://github.com/BAMresearch/MultilayerInternalStresses) - Effect of reaction layers on internal stresses in co-fired multilayers of calcium manganate and calcium cobaltite.
 - [Round-Robin-Hybrid-Mixtures](https://github.com/BAMresearch/Round-Robin-Hybrid-Mixtures) - Associated to World's first round robin test on hybrid mixtures: [https://doi.org/10.1016/j.jlp.2022.104947](https://doi.org/10.1016/j.jlp.2022.104947).
 
-#### Benchmarks and Datasets
+#### Datasets
 - [MALDI-TOF-database](https://github.com/BAMresearch/MALDI-TOF-database) –  This project contains a database which classifies polymer structures according to their repeat unit masses, as obtained by MALDI ToF measurements.
-- [NFDI4IngModelValidationPlatform](https://github.com/BAMresearch/NFDI4IngModelValidationPlatform) – A collection of benchmarks and methdology for provenance tracking for the validation of simulation models.
 
 ## Tools / Utilities
 
@@ -183,8 +188,7 @@ This list is updated once every month to record new developments at BAM.
 - [logbook2mouse](https://github.com/BAMresearch/logbook2mouse) - This library reads a measurement logbook and associated project/sample information and generates a script for a SAXS instrument. Currently still under development.
 - [MAPz_at_BAM](https://github.com/BAMresearch/MAPz_at_BAM) – Materials Acceleration Platform Center at BAM
 - [MOUSEDataPipeline](https://github.com/BAMresearch/MOUSEDataPipeline) – Tools for (automatic) processing of the new MOUSE datafiles
-- [NetworkedPortenta](https://github.com/BAMresearch/NetworkedPortenta) – Arduino IDE code to expose the I/O of an Arduino Portenta Machine Control to an ethernet network. 
-- [NFDI4IngScientificWorkflowRequirements](https://github.com/BAMresearch/NFDI4IngScientificWorkflowRequirements) – This is a repository to discuss, collect and store the requirements for scientific workflow systems
+- [NetworkedPortenta](https://github.com/BAMresearch/NetworkedPortenta) – Arduino IDE code to expose the I/O of an Arduino Portenta Machine Control to an ethernet network.
 - [nomad-parser-fireworks](https://github.com/BAMresearch/nomad-parser-fireworks) – A NOMAD parser plugin for the FireWorks output JSON file.
 - [pressure_gauge_ioc](https://github.com/BAMresearch/pressure_gauge_ioc)
 - [PrusaSlicer](https://github.com/BAMresearch/PrusaSlicer) – G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
