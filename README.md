@@ -4,7 +4,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 The repositories are listed according to the overarching topic and sorted with respect to their field of application.
 This list is updated once every month to record new developments at BAM. 
 
-## List of repositories ordered by the type of code
+## List of repositories ordered by application
 
 ## Analysis
 
