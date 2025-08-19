@@ -6,7 +6,7 @@ This list is updated once every month to record new developments at BAM.
 
 ## List of repositories ordered by the type of code
 
-### Analysis
+## Analysis
 
 - [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
 - [autoplex](https://github.com/BAMresearch/autoplex) – Software for generating and benchmarking machine learning (ML) based interatomic potentials.
@@ -31,9 +31,9 @@ This list is updated once every month to record new developments at BAM.
 - [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
 - [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
 
-### Research Data Management
+## Research Data Management
 
-###### BAM Data Store
+#### BAM Data Store
 - [bam-masterdata](https://github.com/BAMresearch/bam-masterdata) – Repository containing the masterdata definitions of the BAM Data Store project.
 - [dalapp](https://github.com/BAMresearch/dalapp) – Datastore Advanced Label App.
 - [dataMerge](https://github.com/BAMresearch/dataMerge) – A tool for merging and/or rebinning data to achieve a lower point density with best possible statistics.
@@ -49,7 +49,7 @@ This list is updated once every month to record new developments at BAM.
 - [openbis-upload-helper](https://github.com/BAMresearch/openbis-upload-helper) – Upload Helper Tool and Parsers for OpenBIS in the BAM Data Store.
 - [openBIS2SQLite](https://github.com/BAMresearch/openBIS2SQLite)
 
-### Machine Learning / AI
+## Machine Learning / AI
 
 - [ANNforPAT](https://github.com/BAMresearch/ANNforPAT) – Artificial Neural Networks for Process Analytical Technology.
 - [automatic-sem-image-segmentation](https://github.com/BAMresearch/automatic-sem-image-segmentation) – Workflow for Simulation and Automatic Semantic Segmentation of Electron Microscopy Images.
@@ -60,13 +60,13 @@ This list is updated once every month to record new developments at BAM.
 - [SRGDM](https://github.com/BAMresearch/SRGDM) – Super-Resolution for Gas Distribution Mapping.
 - [SynCoTrainMP](https://github.com/BAMresearch/SynCoTrainMP) - Co-Training for Crystal Synthesizability Prediction.
 
-### Large Language Models (LLMs)
+## Large Language Models (LLMs)
 
 - [chatBIS](https://github.com/BAMresearch/chatBIS) – A conversational AI assistant for the openBIS research data management system. Uses RAG with Ollama to provide natural, accurate responses to queries about openBIS. Scrapes documentation, processes it into semantic chunks, and delivers helpful answers through a simple command-line interface.
 
-### Simulations
+## Simulations
 
-###### Fenics - Finite Element (FE) model for the hardening of concrete
+#### Fenics - Finite Element (FE) model for the hardening of concrete
 - [fenics-constitutive](https://github.com/BAMresearch/fenics-constitutive) – Complex constitutive models beyond the FEniCS UFL.
 - [fenics-reinforcement](https://github.com/BAMresearch/fenics-reinforcement) - 
 - [fenics_helpers](https://github.com/BAMresearch/fenics_helpers) – Little Helper classes that come up repeatedly when writing solvers in FEniCS.
@@ -77,7 +77,7 @@ This list is updated once every month to record new developments at BAM.
 - [xdmfConverter](https://github.com/BAMresearch/xdmfConverter) – convert xdmf file written by dolfin including multiple attributes over time to a xdmf file summarizing all attributes for one time step together allowing additional filter functions from paraview.
 - [PGDrome](https://github.com/BAMresearch/PGDrome) – A FEniCS based python module of the Proper Generalized Decomposition (PGD) method. 
 
-###### Dynamic Light Scattering 
+#### Dynamic Light Scattering 
 - [McDLS](https://github.com/BAMresearch/McDLS) – Employs a Monte Carlo method to derive size distributions from dynamic light scattering (DLS) data. Based on [https://github.com/BAMresearch/McSAS](https://github.com/BAMresearch/McSAS).
 - [McSAS](https://github.com/BAMresearch/McSAS) – A tool for extracting form-free size distributions of small-angle scattering (SAS) patterns using a Monte-Carlo method.
 - [McSAS3](https://github.com/BAMresearch/McSAS3) – Refactored McSAS for analysis of X-ray and neutron scattering data.
@@ -87,30 +87,30 @@ This list is updated once every month to record new developments at BAM.
 - [SasModelsExplorer](https://github.com/BAMresearch/SasModelsExplorer) - A PyQt-based interactive application to explore scattering models
 - - [jupyter_tutorial_sas](https://github.com/BAMresearch/jupyter_tutorial_sas) – A programming tutorial for looking at SAS Data with Python. Part of the 'Better with Scattering' Workshop.
   
-###### Radiobiology - TOPAS and the inclusion of nano particles
+#### Radiobiology - TOPAS and the inclusion of nano particles
 - [nBio_docs](https://github.com/BAMresearch/nBio_docs) – TOPAS-nBio Documentation
 - [TOPAS-CellModels](https://github.com/BAMresearch/TOPAS-CellModels) – Cell Models for TOPAS/Geant4 and the inclusion of nano particles in particle scattering simulations.  The C++ classes in this repository extend the functionality of the TOPAS (http://www.topasmc.org/) MC program, which is itself a wrapper of the Geant4 MCS Toolkit (http://geant4.org).
 - [TOPAS-nBio](https://github.com/BAMresearch/TOPAS-nBio) – TOPAS-nBio extension repository, for documentation and license see: https://topas-nbio.readthedocs.io/
 
-###### Code related to aRTist and CTSimU - A radiographic simulator
+#### Code related to aRTist and CTSimU - A radiographic simulator
 - [aRTist-handbook](https://github.com/BAMresearch/aRTist-handbook) – User guide for the radiographic simulator aRTist.
 - [aRTist-PythonLib](https://github.com/BAMresearch/aRTist-PythonLib) – Python library to control aRTist remotely and automatically
 - [ctsimu-artist-module](https://github.com/BAMresearch/ctsimu-artist-module) – CTSimU Module for aRTist
 - [ctsimu-scenarios](https://github.com/BAMresearch/ctsimu-scenarios) – A file format to describe CT scans.
 - [ctsimu-toolbox](https://github.com/BAMresearch/ctsimu-toolbox) – CTSimU Software Toolbox
 
-###### Non-Destructive Testing at BAM
+#### Non-Destructive Testing at BAM
 - [parallel-abus](https://github.com/BAMresearch/parallel-abus) – This code is a Python implementation of the parallelized adaptive Bayesian Updating with Structural reliabilty methods.
 - [PyParSeis](https://github.com/BAMresearch/PyParSeis) - Python code for Parallel Seismic test valuation (determination of foundation depth).
 - [ScaffoldStructures](https://github.com/BAMresearch/ScaffoldStructures) – Create different scaffolds based on triply periodic minimal structures like Gyroids or SchwarzP cells.
 
-###### Gas Dispersion Simulator 
+#### Gas Dispersion Simulator 
 - [gaden2](https://github.com/BAMresearch/gaden2) – GADEN: A 3D Gas Dispersion Simulator for Mobile Robot Olfaction in Realistic Environments.
 
-###### Digital Twin 
+#### Digital Twin 
 - [NibelungenbrueckeDemonstrator](https://github.com/BAMresearch/NibelungenbrueckeDemonstrator) – Provides a representative and repeatable workflow for the implementation of a stochastic Digital Twin (DT) of the Nibelungenbrücke in Worms (Germany).
 
-### Full Stack Applications
+## Full Stack Applications
 
 - [ABID](https://github.com/BAMresearch/ABID) - R code to locally run an R Shiny-App described in "Tscheuschner et al. (2022) Methods for antibody identification in one hour – examined with murine anti-SARS-CoV-2 Mabs".
 - [apm_planner](https://github.com/BAMresearch/apm_planner) – APM Planner Ground Control Station (Qt).
@@ -125,35 +125,35 @@ This list is updated once every month to record new developments at BAM.
 - [SyFoS](https://github.com/BAMresearch/SyFoS) – Synthetic Force Spectroscopy data - A graphical user interface.
 - [SOFA](https://github.com/BAMresearch/SOFA) – SOftware for Force Analysis - A graphical user interface to analyze Atomic Force Microscopy Force Spectroscopy data.
 
-###### Sequential Learning App for Materials Discovery (SLAMD)
+#### Sequential Learning App for Materials Discovery (SLAMD)
 - [SequentialLearningApp](https://github.com/BAMresearch/SequentialLearningApp) – Sequential Learning App for Materials Discovery (SLAMD)
 - [WEBSLAMD](https://github.com/BAMresearch/WEBSLAMD) – Sequential Learning App for Materials Discovery ("SLAMD") - Web Version
 - [SLAMD_Doku](https://github.com/BAMresearch/SLAMD_Doku)
 
-###### EPICS
+#### EPICS
 - [EPICS-synApps-assemble](https://github.com/BAMresearch/EPICS-synApps-assemble) – synApps assemble script.
 - [epics_dashboard](https://github.com/BAMresearch/epics_dashboard) – Streamlit based dashboard to display EPICS process variables in real time.
 - [NetworkedPortentaIOC](https://github.com/BAMresearch/NetworkedPortentaIOC) – EPICS IOC for addressing the networked portenta. Simple, functional version for starters. 
 
-###### Mat-O-Lab - Ontology development
+#### Mat-O-Lab - Ontology development
 - [Ontopanel-backend](https://github.com/BAMresearch/Ontopanel-backend) – Diagrams.net plugin for ontology development.
 - [Ontopanel-BrinellHardnessData](https://github.com/BAMresearch/Ontopanel-BrinellHardnessData) – File archive of Brinell hardness testing
 - [Ontopanel-frontend](https://github.com/BAMresearch/Ontopanel-frontend) – Frontend of Ontopanel application
 
-### Workflows
+## Workflows
 
 - [Advanced_Jobflow_Tutorial](https://github.com/BAMresearch/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science
 - [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
 - [atomate2](https://github.com/BAMresearch/atomate2) – atomate2 is a library of computational materials science workflows
 - [NFDI4IngHPCWorkflows](https://github.com/BAMresearch/NFDI4IngHPCWorkflows) – In this repository, we would like to investigate how (docker, apptainer) containers can be build in order to improve the FAIRness of workflows in the HPC context.
 - 
-###### Infrastructure - Wildfire Progression 
+#### Infrastructure - Wildfire Progression 
 - [Fire_Propagation](https://github.com/BAMresearch/Fire_Propagation) – Code base for the creation of a fire propagation dataset by combining burned area shapefiles and active fire detections.
 - [wildfire_prop_database](https://github.com/BAMresearch/wildfire_prop_database) – Example for merging swath paths into a single scene and extracting a burned area polygon from the resulting image. 
 
-### Data
+## Data
 
-###### Raw Data - Diverse
+#### Raw Data - Diverse
 - [2PP-TestArtifact](https://github.com/BAMresearch/2PP-TestArtifact) – Contains a 2PP-test artifact.
 - [CookieCutters](https://github.com/BAMresearch/CookieCutters) – 3D-printable elements Cookie Cutters we created for the international year of the Periodic Table 2019.
 - [ElectricSafetyInterlock](https://github.com/BAMresearch/ElectricSafetyInterlock) – Schematics, pictures, parts list and documents for an electric safety interlock (ESI).
@@ -166,7 +166,7 @@ This list is updated once every month to record new developments at BAM.
 - [MALDI-TOF-database](https://github.com/BAMresearch/MALDI-TOF-database) –  This project contains a database which classifies polymer structures according to their repeat unit masses, as obtained by MALDI ToF measurements.
 - [NFDI4IngModelValidationPlatform](https://github.com/BAMresearch/NFDI4IngModelValidationPlatform) – A collection of benchmarks and methdology for provenance tracking for the validation of simulation models.
 
-### Tools / Utilities
+## Tools / Utilities
 
 - [bam-load-based-testing](https://github.com/BAMresearch/bam-load-based-testing)
 - [BeamlineAutomationRS232](https://github.com/BAMresearch/BeamlineAutomationRS232)
