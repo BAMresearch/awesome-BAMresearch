@@ -162,7 +162,7 @@ This list is updated once every month to record new developments at BAM.
 - [MultilayerInternalStresses](https://github.com/BAMresearch/MultilayerInternalStresses) - Effect of reaction layers on internal stresses in co-fired multilayers of calcium manganate and calcium cobaltite.
 - [Round-Robin-Hybrid-Mixtures](https://github.com/BAMresearch/Round-Robin-Hybrid-Mixtures) - Associated to World's first round robin test on hybrid mixtures: [https://doi.org/10.1016/j.jlp.2022.104947](https://doi.org/10.1016/j.jlp.2022.104947).
 
-  ###### Benchmarks and Datasets
+  #### Benchmarks and Datasets
 - [MALDI-TOF-database](https://github.com/BAMresearch/MALDI-TOF-database) –  This project contains a database which classifies polymer structures according to their repeat unit masses, as obtained by MALDI ToF measurements.
 - [NFDI4IngModelValidationPlatform](https://github.com/BAMresearch/NFDI4IngModelValidationPlatform) – A collection of benchmarks and methdology for provenance tracking for the validation of simulation models.
 
@@ -177,7 +177,7 @@ This list is updated once every month to record new developments at BAM.
 - [harvard_phd_ioc](https://github.com/BAMresearch/harvard_phd_ioc) – EPICS IOC for the Harvard PhD syringe pump connected via a network-to-serial converter
 - [HDF5Translator](https://github.com/BAMresearch/HDF5Translator) – A flexible command-line tool for translating HDF5 files with one structure into HDF5 files with another structure using editable configuration dictionaries
 - [jetlog](https://github.com/BAMresearch/jetlog) – Jetlog - JSON-based extendible logging
-- [jupyter-integration](https://github.com/BAMresearch/jupyter-integration) – Configures Anaconda on Windows and associates double-click on .ipynb files with JupyterLab. To get version controlled Jupyter notebooks, it installs an extension to commit changes directly from JupyterLab, no command-line interaction necessary. |> https://bamresearch.github.io/jupyter-integration |> https://www.youtube.com/channel/UC0Jlyc60Nxc7FF_3Sjq8f6g
+- [jupyter-integration](https://github.com/BAMresearch/jupyter-integration) – Configures Anaconda on Windows and associates double-click on .ipynb files with JupyterLab. To get version controlled Jupyter notebooks, it installs an extension to commit changes directly from JupyterLab, no command-line interaction necessary. [https://bamresearch.github.io/jupyter-integration](https://www.youtube.com/channel/UC0Jlyc60Nxc7FF_3Sjq8f6g)
 - [Lauda_Proline_IOC](https://github.com/BAMresearch/Lauda_Proline_IOC) – A Caproto IOC for basic control of the Lauda Proline RP855C bath.
 - [LebeDigital](https://github.com/BAMresearch/LebeDigital) – The LeBeDigital Concrete Production and Testing Ontology - CPTO Repository
 - [logbook2mouse](https://github.com/BAMresearch/logbook2mouse) - This library reads a measurement logbook and associated project/sample information and generates a script for a SAXS instrument. Currently still under development.
