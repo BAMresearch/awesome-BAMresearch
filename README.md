@@ -4,9 +4,9 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 The repositories are listed according to the overarching topic and sorted with respect to their field of application.
 This list is updated once every month to record new developments at BAM. 
 
-## List of repositories
+## List of repositories ordered by the type of code
 
-#### Analysis
+### Analysis
 
 - [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
 - [autoplex](https://github.com/BAMresearch/autoplex) – Software for generating and benchmarking machine learning (ML) based interatomic potentials.
@@ -31,7 +31,7 @@ This list is updated once every month to record new developments at BAM.
 - [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
 - [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
 
-#### Research Data Management
+### Research Data Management
 
 ###### BAM Data Store
 - [bam-masterdata](https://github.com/BAMresearch/bam-masterdata) – Repository containing the masterdata definitions of the BAM Data Store project.
@@ -49,7 +49,7 @@ This list is updated once every month to record new developments at BAM.
 - [openbis-upload-helper](https://github.com/BAMresearch/openbis-upload-helper) – Upload Helper Tool and Parsers for OpenBIS in the BAM Data Store.
 - [openBIS2SQLite](https://github.com/BAMresearch/openBIS2SQLite)
 
-#### Machine Learning / AI
+### Machine Learning / AI
 
 - [ANNforPAT](https://github.com/BAMresearch/ANNforPAT) – Artificial Neural Networks for Process Analytical Technology.
 - [automatic-sem-image-segmentation](https://github.com/BAMresearch/automatic-sem-image-segmentation) – Workflow for Simulation and Automatic Semantic Segmentation of Electron Microscopy Images.
@@ -60,11 +60,11 @@ This list is updated once every month to record new developments at BAM.
 - [SRGDM](https://github.com/BAMresearch/SRGDM) – Super-Resolution for Gas Distribution Mapping.
 - [SynCoTrainMP](https://github.com/BAMresearch/SynCoTrainMP) - Co-Training for Crystal Synthesizability Prediction.
 
-#### Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 - [chatBIS](https://github.com/BAMresearch/chatBIS) – A conversational AI assistant for the openBIS research data management system. Uses RAG with Ollama to provide natural, accurate responses to queries about openBIS. Scrapes documentation, processes it into semantic chunks, and delivers helpful answers through a simple command-line interface.
 
-#### Simulations
+### Simulations
 
 ###### Fenics - Finite Element (FE) model for the hardening of concrete
 - [fenics-constitutive](https://github.com/BAMresearch/fenics-constitutive) – Complex constitutive models beyond the FEniCS UFL.
@@ -110,7 +110,7 @@ This list is updated once every month to record new developments at BAM.
 ###### Digital Twin 
 - [NibelungenbrueckeDemonstrator](https://github.com/BAMresearch/NibelungenbrueckeDemonstrator) – Provides a representative and repeatable workflow for the implementation of a stochastic Digital Twin (DT) of the Nibelungenbrücke in Worms (Germany).
 
-#### Full Stack Applications
+### Full Stack Applications
 
 - [ABID](https://github.com/BAMresearch/ABID) - R code to locally run an R Shiny-App described in "Tscheuschner et al. (2022) Methods for antibody identification in one hour – examined with murine anti-SARS-CoV-2 Mabs".
 - [apm_planner](https://github.com/BAMresearch/apm_planner) – APM Planner Ground Control Station (Qt).
@@ -140,7 +140,7 @@ This list is updated once every month to record new developments at BAM.
 - [Ontopanel-BrinellHardnessData](https://github.com/BAMresearch/Ontopanel-BrinellHardnessData) – File archive of Brinell hardness testing
 - [Ontopanel-frontend](https://github.com/BAMresearch/Ontopanel-frontend) – Frontend of Ontopanel application
 
-#### Workflows
+### Workflows
 
 - [Advanced_Jobflow_Tutorial](https://github.com/BAMresearch/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science
 - [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
@@ -151,7 +151,7 @@ This list is updated once every month to record new developments at BAM.
 - [Fire_Propagation](https://github.com/BAMresearch/Fire_Propagation) – Code base for the creation of a fire propagation dataset by combining burned area shapefiles and active fire detections.
 - [wildfire_prop_database](https://github.com/BAMresearch/wildfire_prop_database) – Example for merging swath paths into a single scene and extracting a burned area polygon from the resulting image. 
 
-#### Data
+### Data
 
 ###### Raw Data - Diverse
 - [2PP-TestArtifact](https://github.com/BAMresearch/2PP-TestArtifact) – Contains a 2PP-test artifact.
@@ -166,7 +166,7 @@ This list is updated once every month to record new developments at BAM.
 - [MALDI-TOF-database](https://github.com/BAMresearch/MALDI-TOF-database) –  This project contains a database which classifies polymer structures according to their repeat unit masses, as obtained by MALDI ToF measurements.
 - [NFDI4IngModelValidationPlatform](https://github.com/BAMresearch/NFDI4IngModelValidationPlatform) – A collection of benchmarks and methdology for provenance tracking for the validation of simulation models.
 
-#### Tools / Utilities
+### Tools / Utilities
 
 - [bam-load-based-testing](https://github.com/BAMresearch/bam-load-based-testing)
 - [BeamlineAutomationRS232](https://github.com/BAMresearch/BeamlineAutomationRS232)
