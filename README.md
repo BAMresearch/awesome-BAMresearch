@@ -8,30 +8,29 @@ This list is updated once every month to record new developments at BAM.
 
 ## Analysis
 
-- [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
-- [autoplex](https://github.com/BAMresearch/autoplex) – Software for generating and benchmarking machine learning (ML) based interatomic potentials.
-- [b-least-analysis](https://github.com/BAMresearch/b-least-analysis) – Calibration tool for measurement data with ISO 6143-based model fitting and uncertainty estimation.
-- [bayem](https://github.com/BAMresearch/bayem) – Implementation and derivation of "Variational Bayesian inference for a nonlinear forward model." [Chappell et al. 2008] for arbitrary, user-defined model errors.
-- [DF-TEM-PAW](https://github.com/BAMresearch/DF-TEM-PAW) – This repository contains the necessary sources and scripts to conduct automated precipitate analysis as demonstrated in [10.1007/s40192-023-00331-5]
-- [HavNegpy](https://github.com/BAMresearch/HavNegpy) – HavNegpy is a python fit package to anaylze dielectric spectroscopy data. HavNeg is an acronym for Havriliak and Negami function, and the fit module is written specifically to analyze the dielectric loss and real part of AC conductivity data.
+#### Image Analysis
 - [image_processing_ioc](https://github.com/BAMresearch/image_processing_ioc) – IOC that takes one or two files and exposes image analysis results. 
-- [jupyter-analysis-tools](https://github.com/BAMresearch/jupyter-analysis-tools) – Common Python helpers for data analysis notebooks in GIT repositories.
-- [MoDaCor](https://github.com/BAMresearch/MoDaCor) – new modular data corrections for any neutron or xray technique that produces 1D or 2D scattering/diffraction/imaging data.
-- [Overview-of-SAXSess-Measurements](https://github.com/BAMresearch/Overview-of-SAXSess-Measurements) – Jupyter Notebooks for giving an overview or generating overview plots.
-- [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on [https://doi.org/10.1007/s11051-020-04840-8]()(https://doi.org/10.1007/s11051-020-04840-8).
-- [PassiveSmartDust](https://github.com/BAMresearch/PassiveSmartDust) – An adjustable image segmentation filter, combined with data procession used in the PSD project.
-- [PepGM](https://github.com/BAMresearch/PepGM) - A probabilistic graphical model for taxonomic inference of viral proteome samples with associated confidence scores.
-- [probeye](https://github.com/BAMresearch/probeye) – A general framework for setting up parameter estimation problems.
-- [pymatgen](https://github.com/BAMresearch/pymatgen) – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - [Roughness-Analysis-by-Electron-Microscopy](https://github.com/BAMresearch/Roughness-Analysis-by-Electron-Microscopy) – Roughness analysis approach by electron microscopy for spherical microparticles.
-- [TGA-FTIR-hyphenation-tool-kit](https://github.com/BAMresearch/TGA-FTIR-hyphenation-tool-kit) – Analysis of hyphenated TGA and FTIR data in Jupyter Notebooks: quantitative evolved gases analysis, release rate deconvolution, easy to adapt for different devices.
-- [WavenumberAnalysis](https://github.com/BAMresearch/WavenumberAnalysis) – This project allows to perform wavenumber mapping using Matlab.
-- [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
-- [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
+- [DF-TEM-PAW](https://github.com/BAMresearch/DF-TEM-PAW) – This repository contains the necessary sources and scripts to conduct automated precipitate analysis as demonstrated in [10.1007/s40192-023-00331-5]
+- [PassiveSmartDust](https://github.com/BAMresearch/PassiveSmartDust) – An adjustable image segmentation filter, combined with data procession used in the PSD project.
 
-#### LobsterPy
-- [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
-- [LobsterPy](https://github.com/BAMresearch/LobsterPy) – Package to automatically analyze Lobster runs.
+#### Spectroscopic Analysis
+- [HavNegpy](https://github.com/BAMresearch/HavNegpy) – HavNegpy is a python fit package to anaylze dielectric spectroscopy data. HavNeg is an acronym for Havriliak and Negami function, and the fit module is written specifically to analyze the dielectric loss and real part of AC conductivity data.
+- [PepGM](https://github.com/BAMresearch/PepGM) - A probabilistic graphical model for taxonomic inference of viral proteome samples with associated confidence scores.
+- [TGA-FTIR-hyphenation-tool-kit](https://github.com/BAMresearch/TGA-FTIR-hyphenation-tool-kit) – Analysis of hyphenated TGA and FTIR data in Jupyter Notebooks: quantitative evolved gases analysis, release rate deconvolution, easy to adapt for different devices.
+
+#### Parameter Estimation / Calibration
+- [bayem](https://github.com/BAMresearch/bayem) – Implementation and derivation of "Variational Bayesian inference for a nonlinear forward model." [Chappell et al. 2008] for arbitrary, user-defined model errors.
+- [probeye](https://github.com/BAMresearch/probeye) – A general framework for setting up parameter estimation problems.
+- [b-least-analysis](https://github.com/BAMresearch/b-least-analysis) – Calibration tool for measurement data with ISO 6143-based model fitting and uncertainty estimation.
+
+#### Atomistic Modelling
+- [pymatgen](https://github.com/BAMresearch/pymatgen) – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
+
+#### Diverse
+- [jupyter-analysis-tools](https://github.com/BAMresearch/jupyter-analysis-tools) – Common Python helpers for data analysis notebooks in GIT repositories.
+- [WavenumberAnalysis](https://github.com/BAMresearch/WavenumberAnalysis) – This project allows to perform wavenumber mapping using Matlab.
 
 ## Research Data Management
 
@@ -58,19 +57,23 @@ This list is updated once every month to record new developments at BAM.
 
 ## Machine Learning / AI
 
-#### Image Analysis
+#### ML for Image Analysis
 - [automatic-sem-image-segmentation](https://github.com/BAMresearch/automatic-sem-image-segmentation) – Workflow for Simulation and Automatic Semantic Segmentation of Electron Microscopy Images.
 - [Photothermal_SR_Net](https://github.com/BAMresearch/Photothermal_SR_Net) - Model to reconstruct a defect pattern with IR cameras.
 - [SRGDM](https://github.com/BAMresearch/SRGDM) – Super-Resolution for Gas Distribution Mapping.
 
-#### Spectroscopic Analysis
+#### ML for Spectroscopic Analysis
 - [EISnet](https://github.com/BAMresearch/EISNet) - Code for model to Machine Learning-Assisted Equivalent Circuit Identification for Dielectric Spectroscopy of Polymers [https://doi.org/10.1016/j.electacta.2024.144474](https://doi.org/10.1016/j.electacta.2024.144474).
 - [ANNforPAT](https://github.com/BAMresearch/ANNforPAT) – This code accompanies the paper "Artificial neural networks for quantitative online NMR spectroscopy" ([https://doi.org/10.1007/s00216-020-02687-5](https://doi.org/10.1007/s00216-020-02687-5))
 - [fiora](https://github.com/BAMresearch/fiora) - An in silico fragmentation algorithm designed to predict tandem mass spectra (MS/MS) with high accuracy. Using graph neural networks, FIORA models bond cleavages, fragment intensities, and estimates retention times (RT) and collision cross sections (CCS).
 
-#### Atomistic modelling
+#### ML for Atomistic Modelling
 - [equitrain](https://github.com/BAMresearch/equitrain) - Equitrain is an open-source software package designed to simplify the training and fine-tuning of machine learning universal interatomic potentials (MLIPs).
+- [autoplex](https://github.com/BAMresearch/autoplex) – Software for generating and benchmarking machine learning (ML) based interatomic potentials.
 - [SynCoTrainMP](https://github.com/BAMresearch/SynCoTrainMP) - Co-Training for Crystal Synthesizability Prediction.
+##### LobsterPy
+- [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
+- [LobsterPy](https://github.com/BAMresearch/LobsterPy) – Package to automatically analyze Lobster runs.
 
 ## Large Language Models (LLMs)
 
@@ -97,7 +100,11 @@ This list is updated once every month to record new developments at BAM.
 - [SPONGE](https://github.com/BAMresearch/SPONGE) – Simulates X-ray and Neutron scattering patterns from arbitrary shapes defined by STL files
 - [UltimaRatio](https://github.com/BAMresearch/UltimaRatio) – A high resolution 3D FFT package (primarily for X-ray scattering simulation).
 - [SasModelsExplorer](https://github.com/BAMresearch/SasModelsExplorer) - A PyQt-based interactive application to explore scattering models
-- - [jupyter_tutorial_sas](https://github.com/BAMresearch/jupyter_tutorial_sas) – A programming tutorial for looking at SAS Data with Python. Part of the 'Better with Scattering' Workshop.
+- [jupyter_tutorial_sas](https://github.com/BAMresearch/jupyter_tutorial_sas) – A programming tutorial for looking at SAS Data with Python. Part of the 'Better with Scattering' Workshop.
+- [Overview-of-SAXSess-Measurements](https://github.com/BAMresearch/Overview-of-SAXSess-Measurements) – Jupyter Notebooks for giving an overview or generating overview plots.
+- [MoDaCor](https://github.com/BAMresearch/MoDaCor) – new modular data corrections for any neutron or xray technique that produces 1D or 2D scattering/diffraction/imaging data.
+- [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on [https://doi.org/10.1007/s11051-020-04840-8]()(https://doi.org/10.1007/s11051-020-04840-8).
+- [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
   
 #### Radiobiology - TOPAS and the inclusion of nano particles
 - [nBio_docs](https://github.com/BAMresearch/nBio_docs) – TOPAS-nBio Documentation
@@ -136,6 +143,7 @@ This list is updated once every month to record new developments at BAM.
 - [pipeline-webxr](https://github.com/BAMresearch/pipeline-webxr) - A Next.js application for visualizing 3D models in augmented reality using Babylon.js.
 - [SyFoS](https://github.com/BAMresearch/SyFoS) – Synthetic Force Spectroscopy data - A graphical user interface.
 - [SOFA](https://github.com/BAMresearch/SOFA) – SOftware for Force Analysis - A graphical user interface to analyze Atomic Force Microscopy Force Spectroscopy data.
+- [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
 
 #### Sequential Learning App for Materials Discovery (SLAMD)
 - [SequentialLearningApp](https://github.com/BAMresearch/SequentialLearningApp) – Sequential Learning App for Materials Discovery (SLAMD)
