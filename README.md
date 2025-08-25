@@ -4,7 +4,7 @@ A curated list of repositories, tools, and projects maintained by the BAMresearc
 The repositories are listed according to the overarching topic and sorted with respect to their field of application.
 This list is updated once every month to record new developments at BAM. 
 
-## List of repositories ordered by application
+# List of repositories ordered by application
 
 ## Analysis
 
@@ -131,19 +131,9 @@ This list is updated once every month to record new developments at BAM.
 
 ## Full Stack Applications
 
-- [ABID](https://github.com/BAMresearch/ABID) - R code to locally run an R Shiny-App described in "Tscheuschner et al. (2022) Methods for antibody identification in one hour – examined with murine anti-SARS-CoV-2 Mabs".
-- [apm_planner](https://github.com/BAMresearch/apm_planner) – APM Planner Ground Control Station (Qt).
-- [BallTracker](https://github.com/BAMresearch/BallTracker) – Tracks a ball to calibrate an axis. For parallel beam geometries.
-- [BayesApp](https://github.com/BAMresearch/BayesApp) – Source code for the BayesApp software package (will not be updated anymore).
-- [DIRECTT](https://github.com/BAMresearch/DIRECTT) – A graphical user interface, based on the ASTRA toolbox, for the reconstruction from X-ray Computed Tomography data. It includes the option of the DIRECTT algorithm.
-- [EU-energy-label-app](https://github.com/BAMresearch/EU-energy-label-app) - Flutter based app project for finding energy and environmental information on products carrying the new European energy label. This repo provides a quick start for mobile app development and consists of a fully functional app for iOS and Android which can be tailored to your needs.
-- [IOCLauncher](https://github.com/BAMresearch/IOCLauncher) - A simple dashboard to launch and keep track of command-line-launched services
-- [LiveFT](https://github.com/BAMresearch/LiveFT) – An educational tool showing in realtime the webcam image and the intensity of its Fourier Transform next to it.
-- [Micro_plastic_relationship_counseling](https://github.com/BAMresearch/Micro_plastic_relationship_counseling) – Server-Client socket implementation that allows for log file based error detection and termination of a program with a GUI.
-- [pipeline-webxr](https://github.com/BAMresearch/pipeline-webxr) - A Next.js application for visualizing 3D models in augmented reality using Babylon.js.
+#### Force Spectroscopy
 - [SyFoS](https://github.com/BAMresearch/SyFoS) – Synthetic Force Spectroscopy data - A graphical user interface.
 - [SOFA](https://github.com/BAMresearch/SOFA) – SOftware for Force Analysis - A graphical user interface to analyze Atomic Force Microscopy Force Spectroscopy data.
-- [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
 
 #### Sequential Learning App for Materials Discovery (SLAMD)
 - [SequentialLearningApp](https://github.com/BAMresearch/SequentialLearningApp) – Sequential Learning App for Materials Discovery (SLAMD)
@@ -160,15 +150,36 @@ This list is updated once every month to record new developments at BAM.
 - [Ontopanel-BrinellHardnessData](https://github.com/BAMresearch/Ontopanel-BrinellHardnessData) – File archive of Brinell hardness testing
 - [Ontopanel-frontend](https://github.com/BAMresearch/Ontopanel-frontend) – Frontend of Ontopanel application
 
+#### Controller-based Applications
+- [Micro_plastic_relationship_counseling](https://github.com/BAMresearch/Micro_plastic_relationship_counseling) – Server-Client socket implementation that allows for log file based error detection and termination of a program with a GUI.
+- [IOCLauncher](https://github.com/BAMresearch/IOCLauncher) - A simple dashboard to launch and keep track of command-line-launched services
+- [apm_planner](https://github.com/BAMresearch/apm_planner) – APM Planner Ground Control Station (Qt).
+
 ## Workflows
 
+#### Computational Materials Science
 - [Advanced_Jobflow_Tutorial](https://github.com/BAMresearch/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science
-- [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
 - [atomate2](https://github.com/BAMresearch/atomate2) – atomate2 is a library of computational materials science workflows
 
-#### Infrastructure - Wildfire Progression 
+#### Additive Manifacturing
+- [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
+
+#### BAM Infrastructure - Wildfire Progression 
 - [Fire_Propagation](https://github.com/BAMresearch/Fire_Propagation) – Code base for the creation of a fire propagation dataset by combining burned area shapefiles and active fire detections.
 - [wildfire_prop_database](https://github.com/BAMresearch/wildfire_prop_database) – Example for merging swath paths into a single scene and extracting a burned area polygon from the resulting image. 
+
+#### Education and Visualization
+- [LiveFT](https://github.com/BAMresearch/LiveFT) – An educational tool showing in realtime the webcam image and the intensity of its Fourier Transform next to it.
+- [pipeline-webxr](https://github.com/BAMresearch/pipeline-webxr) - A Next.js application for visualizing 3D models in augmented reality using Babylon.js.
+- [EU-energy-label-app](https://github.com/BAMresearch/EU-energy-label-app) - Flutter based app project for finding energy and environmental information on products carrying the new European energy label. This repo provides a quick start for mobile app development and consists of a fully functional app for iOS and Android which can be tailored to your needs.
+
+#### Concrete Strength Prediction
+- [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
+
+#### Diverse
+- [ABID](https://github.com/BAMresearch/ABID) - R code to locally run an R Shiny-App described in "Tscheuschner et al. (2022) Methods for antibody identification in one hour – examined with murine anti-SARS-CoV-2 Mabs".
+- [BallTracker](https://github.com/BAMresearch/BallTracker) – Tracks a ball to calibrate an axis. For parallel beam geometries.
+- [DIRECTT](https://github.com/BAMresearch/DIRECTT) – A graphical user interface, based on the ASTRA toolbox, for the reconstruction from X-ray Computed Tomography data. It includes the option of the DIRECTT algorithm.
 
 ## Data
 
