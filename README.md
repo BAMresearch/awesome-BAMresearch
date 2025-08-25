@@ -18,6 +18,7 @@ This list is updated once every month to record new developments at BAM.
 - [HavNegpy](https://github.com/BAMresearch/HavNegpy) – HavNegpy is a python fit package to anaylze dielectric spectroscopy data. HavNeg is an acronym for Havriliak and Negami function, and the fit module is written specifically to analyze the dielectric loss and real part of AC conductivity data.
 - [PepGM](https://github.com/BAMresearch/PepGM) - A probabilistic graphical model for taxonomic inference of viral proteome samples with associated confidence scores.
 - [TGA-FTIR-hyphenation-tool-kit](https://github.com/BAMresearch/TGA-FTIR-hyphenation-tool-kit) – Analysis of hyphenated TGA and FTIR data in Jupyter Notebooks: quantitative evolved gases analysis, release rate deconvolution, easy to adapt for different devices.
+- [virtual-gas-camera](https://github.com/BAMresearch/virtual-gas-camera) – Software repository for the so-called 'virtual gas camera' associated with the paper 'Robotic Scanning Absorption Spectroscopy for Methane Leak Detection: the Virtual Gas Camera'.
 
 #### Parameter Estimation / Calibration
 - [bayem](https://github.com/BAMresearch/bayem) – Implementation and derivation of "Variational Bayesian inference for a nonlinear forward model." [Chappell et al. 2008] for arbitrary, user-defined model errors.
@@ -105,6 +106,9 @@ This list is updated once every month to record new developments at BAM.
 - [MoDaCor](https://github.com/BAMresearch/MoDaCor) – new modular data corrections for any neutron or xray technique that produces 1D or 2D scattering/diffraction/imaging data.
 - [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on [https://doi.org/10.1007/s11051-020-04840-8]()(https://doi.org/10.1007/s11051-020-04840-8).
 - [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
+- [Utah-SAXS-Tools](https://github.com/BAMresearch/Utah-SAXS-Tools) – The Utah SAXS Tools (USToo), adapted for Python 3, originally by David P. Goldenberg, 2009-2012
+- [logbook2mouse](https://github.com/BAMresearch/logbook2mouse) - This library reads a measurement logbook and associated project/sample information and generates a script for a SAXS instrument. Currently still under development.
+- [MOUSEDataPipeline](https://github.com/BAMresearch/MOUSEDataPipeline) – Tools for (automatic) processing of the new MOUSE datafiles
   
 #### Radiobiology - TOPAS and the inclusion of nano particles
 - [nBio_docs](https://github.com/BAMresearch/nBio_docs) – TOPAS-nBio Documentation
@@ -143,12 +147,16 @@ This list is updated once every month to record new developments at BAM.
 #### EPICS
 - [EPICS-synApps-assemble](https://github.com/BAMresearch/EPICS-synApps-assemble) – synApps assemble script.
 - [epics_dashboard](https://github.com/BAMresearch/epics_dashboard) – Streamlit based dashboard to display EPICS process variables in real time.
-- [NetworkedPortentaIOC](https://github.com/BAMresearch/NetworkedPortentaIOC) – EPICS IOC for addressing the networked portenta. Simple, functional version for starters. 
+- [NetworkedPortentaIOC](https://github.com/BAMresearch/NetworkedPortentaIOC) – EPICS IOC for addressing the networked portenta. Simple, functional version for starters.
+- [harvard_phd_ioc](https://github.com/BAMresearch/harvard_phd_ioc) – EPICS IOC for the Harvard PhD syringe pump connected via a network-to-serial converter.
+- [spec2epics](https://github.com/BAMresearch/spec2epics) – Scripts to convert the configuration of IMS/Schneider MDrive motors from SPEC to EPICS motorIMS.
+- [Trinamic_TMCL_IOC](https://github.com/BAMresearch/Trinamic_TMCL_IOC) – A python and EPICS interface for Trinamic TMCL-speaking motor controller boards, controlled over serial-over-ethernet.
+- [pressure_gauge_ioc](https://github.com/BAMresearch/pressure_gauge_ioc) - EPICS IOC for reading pressure from Inficon pressure gauge.
 
 #### Mat-O-Lab - Ontology development
 - [Ontopanel-backend](https://github.com/BAMresearch/Ontopanel-backend) – Diagrams.net plugin for ontology development.
-- [Ontopanel-BrinellHardnessData](https://github.com/BAMresearch/Ontopanel-BrinellHardnessData) – File archive of Brinell hardness testing
-- [Ontopanel-frontend](https://github.com/BAMresearch/Ontopanel-frontend) – Frontend of Ontopanel application
+- [Ontopanel-BrinellHardnessData](https://github.com/BAMresearch/Ontopanel-BrinellHardnessData) – File archive of Brinell hardness testing.
+- [Ontopanel-frontend](https://github.com/BAMresearch/Ontopanel-frontend) – Frontend of Ontopanel application.
 
 #### Controller-based Applications
 - [Micro_plastic_relationship_counseling](https://github.com/BAMresearch/Micro_plastic_relationship_counseling) – Server-Client socket implementation that allows for log file based error detection and termination of a program with a GUI.
@@ -158,8 +166,8 @@ This list is updated once every month to record new developments at BAM.
 ## Workflows
 
 #### Computational Materials Science
-- [Advanced_Jobflow_Tutorial](https://github.com/BAMresearch/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science
-- [atomate2](https://github.com/BAMresearch/atomate2) – atomate2 is a library of computational materials science workflows
+- [Advanced_Jobflow_Tutorial](https://github.com/BAMresearch/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science.
+- [atomate2](https://github.com/BAMresearch/atomate2) – atomate2 is a library of computational materials science workflows.
 
 #### Additive Manifacturing
 - [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
@@ -174,7 +182,7 @@ This list is updated once every month to record new developments at BAM.
 - [EU-energy-label-app](https://github.com/BAMresearch/EU-energy-label-app) - Flutter based app project for finding energy and environmental information on products carrying the new European energy label. This repo provides a quick start for mobile app development and consists of a fully functional app for iOS and Android which can be tailored to your needs.
 
 #### Concrete Strength Prediction
-- [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction 
+- [Regression-Analysis-for-Materials-Sciences---RAMSES](https://github.com/BAMresearch/Regression-Analysis-for-Materials-Sciences---RAMSES) – An Application for Concrete Strength Prediction.
 
 #### Diverse
 - [ABID](https://github.com/BAMresearch/ABID) - R code to locally run an R Shiny-App described in "Tscheuschner et al. (2022) Methods for antibody identification in one hour – examined with murine anti-SARS-CoV-2 Mabs".
@@ -197,40 +205,45 @@ This list is updated once every month to record new developments at BAM.
 
 ## Tools / Utilities
 
-- [bam-load-based-testing](https://github.com/BAMresearch/bam-load-based-testing)
-- [BeamlineAutomationRS232](https://github.com/BAMresearch/BeamlineAutomationRS232)
-- [checksum-dir](https://github.com/BAMresearch/checksum-dir) – simple script for creating and verifying file checksums for a directory recursively
-- [dectris_eiger_ioc](https://github.com/BAMresearch/dectris_eiger_ioc) – A simple caproto-based IOC for setting, triggering and collecting data to files from the Dectris Eiger detectors
-- [dockerbuilder-pmd](https://github.com/BAMresearch/dockerbuilder-pmd) – Repo for building docker images in github actions
-- [GaussianBeamProfile](https://github.com/BAMresearch/GaussianBeamProfile) – Gaussian Beam Profile calculator for 2PP
-- [harvard_phd_ioc](https://github.com/BAMresearch/harvard_phd_ioc) – EPICS IOC for the Harvard PhD syringe pump connected via a network-to-serial converter
-- [HDF5Translator](https://github.com/BAMresearch/HDF5Translator) – A flexible command-line tool for translating HDF5 files with one structure into HDF5 files with another structure using editable configuration dictionaries
-- [jetlog](https://github.com/BAMresearch/jetlog) – Jetlog - JSON-based extendible logging
-- [jupyter-integration](https://github.com/BAMresearch/jupyter-integration) – Configures Anaconda on Windows and associates double-click on .ipynb files with JupyterLab. To get version controlled Jupyter notebooks, it installs an extension to commit changes directly from JupyterLab, no command-line interaction necessary. [https://bamresearch.github.io/jupyter-integration](https://www.youtube.com/channel/UC0Jlyc60Nxc7FF_3Sjq8f6g)
-- [Lauda_Proline_IOC](https://github.com/BAMresearch/Lauda_Proline_IOC) – A Caproto IOC for basic control of the Lauda Proline RP855C bath.
-- [LebeDigital](https://github.com/BAMresearch/LebeDigital) – The LeBeDigital Concrete Production and Testing Ontology - CPTO Repository
-- [logbook2mouse](https://github.com/BAMresearch/logbook2mouse) - This library reads a measurement logbook and associated project/sample information and generates a script for a SAXS instrument. Currently still under development.
+#### BAMs Materials Acceleration Platform Center (MAP)
 - [MAPz_at_BAM](https://github.com/BAMresearch/MAPz_at_BAM) – Materials Acceleration Platform Center at BAM
-- [MOUSEDataPipeline](https://github.com/BAMresearch/MOUSEDataPipeline) – Tools for (automatic) processing of the new MOUSE datafiles
-- [NetworkedPortenta](https://github.com/BAMresearch/NetworkedPortenta) – Arduino IDE code to expose the I/O of an Arduino Portenta Machine Control to an ethernet network.
-- [nomad-parser-fireworks](https://github.com/BAMresearch/nomad-parser-fireworks) – A NOMAD parser plugin for the FireWorks output JSON file.
-- [pressure_gauge_ioc](https://github.com/BAMresearch/pressure_gauge_ioc)
-- [PrusaSlicer](https://github.com/BAMresearch/PrusaSlicer) – G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [pyrxiv](https://github.com/BAMresearch/pyrxiv) – A Python package for retrieving arXiv papers and filter them out with respect to some specific regex pattern.
-- [pyscicat](https://github.com/BAMresearch/pyscicat)
-- [pytest-notebook](https://github.com/BAMresearch/pytest-notebook) – A pytest plugin for regression testing and regenerating Jupyter Notebooks
-- [Reproducible-Science](https://github.com/BAMresearch/Reproducible-Science) – Provide ideas, instructions and templates on how to realize reproducible science. https://bamresearch.github.io/Reproducible-Science/
+
+#### Caproto IOC
+- [dectris_eiger_ioc](https://github.com/BAMresearch/dectris_eiger_ioc) – A simple caproto-based IOC for setting, triggering and collecting data to files from the Dectris Eiger detectors.
+- [Lauda_Proline_IOC](https://github.com/BAMresearch/Lauda_Proline_IOC) – A Caproto IOC for basic control of the Lauda Proline RP855C bath.
+
+#### SciCat
+- [pyscicat](https://github.com/BAMresearch/pyscicat) - Pyscicat is a python client library for interacting with the SciCat backend.
+- [SciCat-localdeploy](https://github.com/BAMresearch/SciCat-localdeploy) – SciCat Data Catalog Kubernetes Deployment - Install scripts setting up SciCat on a single server using minikube or in baremetal k8s cluster.
+- [scicat-upload](https://github.com/BAMresearch/scicat-upload) – scicat ingestion/upload scripting for uploading meta data into the database.
+  
+#### Cookiecutter
+- [yapy-cookiecutter](https://github.com/BAMresearch/yapy-cookiecutter) – Yet Another cookiecutter template for Python projects in data science & processing.
+- [yapy-copier-template](https://github.com/BAMresearch/yapy-copier-template) – Yet Another Python Copier template for a Python modules and applications focussing on data science, processing and analysis.
+
+#### Robot Operating System (ROS)
 - [rl_logging](https://github.com/BAMresearch/rl_logging) – RobotLibraries Logging Abstraction
 - [ros2_tools](https://github.com/BAMresearch/ros2_tools) – Tools for the Robot Operating System 2 (ROS 2)
-- [SciCat-localdeploy](https://github.com/BAMresearch/SciCat-localdeploy) – SciCat Data Catalog Kubernetes Deployment - Install scripts setting up SciCat on a single server using minikube or in baremetal k8s cluster
-- [scicat-upload](https://github.com/BAMresearch/scicat-upload) – scicat ingestion/upload scripting for uploading meta data into the database
-- [spec2epics](https://github.com/BAMresearch/spec2epics) – Scripts to convert the configuration of IMS/Schneider MDrive motors from SPEC to EPICS motorIMS
-- [tiled](https://github.com/BAMresearch/tiled) – API to structured data
-- [Trinamic_TMCL_IOC](https://github.com/BAMresearch/Trinamic_TMCL_IOC) – A python and EPICS interface for Trinamic TMCL-speaking motor controller boards, controlled over serial-over-ethernet
-- [Utah-SAXS-Tools](https://github.com/BAMresearch/Utah-SAXS-Tools) – The Utah SAXS Tools (USToo), adapted for Python 3, originally by David P. Goldenberg, 2009-2012
-- [virtual-gas-camera](https://github.com/BAMresearch/virtual-gas-camera) – Software repository for the so-called 'virtual gas camera' associated with the paper 'Robotic Scanning Absorption Spectroscopy for Methane Leak Detection: the Virtual Gas Camera'.
-- [yapy-cookiecutter](https://github.com/BAMresearch/yapy-cookiecutter) – Yet Another cookiecutter template for Python projects in data science & processing
-- [yapy-copier-template](https://github.com/BAMresearch/yapy-copier-template) – Yet Another Python Copier template for a Python modules and applications focussing on data science, processing and analysis.
+
+#### Diverse
+- [bam-load-based-testing](https://github.com/BAMresearch/bam-load-based-testing) - Two-mass building model for load-based testing of heat pumps. The model is used to define the inertial behavior of the heat sink.
+- [BeamlineAutomationRS232](https://github.com/BAMresearch/BeamlineAutomationRS232) - A collection of Python drivers for RS-232 control of common beamline components at the mySpot beamline of BESSY-II.
+- [checksum-dir](https://github.com/BAMresearch/checksum-dir) – simple script for creating and verifying file checksums for a directory recursively.
+- [dockerbuilder-pmd](https://github.com/BAMresearch/dockerbuilder-pmd) – Repo for building docker images in github actions.
+- [GaussianBeamProfile](https://github.com/BAMresearch/GaussianBeamProfile) – Gaussian Beam Profile calculator for 2PP.
+- [HDF5Translator](https://github.com/BAMresearch/HDF5Translator) – A flexible command-line tool for translating HDF5 files with one structure into HDF5 files with another structure using editable configuration dictionaries.
+- [jetlog](https://github.com/BAMresearch/jetlog) – Jetlog - JSON-based extendible logging.
+- [jupyter-integration](https://github.com/BAMresearch/jupyter-integration) – Configures Anaconda on Windows and associates double-click on .ipynb files with JupyterLab. To get version controlled Jupyter notebooks, it installs an extension to commit changes directly from JupyterLab, no command-line interaction necessary. [https://bamresearch.github.io/jupyter-integration](https://www.youtube.com/channel/UC0Jlyc60Nxc7FF_3Sjq8f6g)
+- [LebeDigital](https://github.com/BAMresearch/LebeDigital) – The LeBeDigital Concrete Production and Testing Ontology - CPTO Repository.
+- [NetworkedPortenta](https://github.com/BAMresearch/NetworkedPortenta) – Arduino IDE code to expose the I/O of an Arduino Portenta Machine Control to an ethernet network.
+- [nomad-parser-fireworks](https://github.com/BAMresearch/nomad-parser-fireworks) – A NOMAD parser plugin for the FireWorks output JSON file.
+- [PrusaSlicer](https://github.com/BAMresearch/PrusaSlicer) – G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.).
+- [pyrxiv](https://github.com/BAMresearch/pyrxiv) – A Python package for retrieving arXiv papers and filter them out with respect to some specific regex pattern.
+- [pytest-notebook](https://github.com/BAMresearch/pytest-notebook) – A pytest plugin for regression testing and regenerating Jupyter Notebooks.
+- [Reproducible-Science](https://github.com/BAMresearch/Reproducible-Science) – Provide ideas, instructions and templates on how to realize reproducible science. [https://bamresearch.github.io/Reproducible-Science/](https://bamresearch.github.io/Reproducible-Science/).
+- [tiled](https://github.com/BAMresearch/tiled) – API to structured data.
+
+
 
 
 ## License
