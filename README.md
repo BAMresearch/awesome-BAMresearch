@@ -58,13 +58,18 @@ This list is updated once every month to record new developments at BAM.
 
 ## Machine Learning / AI
 
-- [ANNforPAT](https://github.com/BAMresearch/ANNforPAT) – Artificial Neural Networks for Process Analytical Technology.
+#### Image Analysis
 - [automatic-sem-image-segmentation](https://github.com/BAMresearch/automatic-sem-image-segmentation) – Workflow for Simulation and Automatic Semantic Segmentation of Electron Microscopy Images.
-- [EISnet](https://github.com/BAMresearch/EISNet) - Code for model to Machine Learning-Assisted Equivalent Circuit Identification for Dielectric Spectroscopy of Polymers [https://doi.org/10.1016/j.electacta.2024.144474](https://doi.org/10.1016/j.electacta.2024.144474).
-- [equitrain](https://github.com/BAMresearch/equitrain) - Equitrain is an open-source software package designed to simplify the training and fine-tuning of machine learning universal interatomic potentials (MLIPs).
-- [fiora](https://github.com/BAMresearch/fiora) - An in silico fragmentation algorithm designed to predict tandem mass spectra (MS/MS) with high accuracy. Using graph neural networks, FIORA models bond cleavages, fragment intensities, and estimates retention times (RT) and collision cross sections (CCS).
 - [Photothermal_SR_Net](https://github.com/BAMresearch/Photothermal_SR_Net) - Model to reconstruct a defect pattern with IR cameras.
 - [SRGDM](https://github.com/BAMresearch/SRGDM) – Super-Resolution for Gas Distribution Mapping.
+
+#### Spectroscopic Analysis
+- [EISnet](https://github.com/BAMresearch/EISNet) - Code for model to Machine Learning-Assisted Equivalent Circuit Identification for Dielectric Spectroscopy of Polymers [https://doi.org/10.1016/j.electacta.2024.144474](https://doi.org/10.1016/j.electacta.2024.144474).
+- [ANNforPAT](https://github.com/BAMresearch/ANNforPAT) – This code accompanies the paper "Artificial neural networks for quantitative online NMR spectroscopy" ([https://doi.org/10.1007/s00216-020-02687-5](https://doi.org/10.1007/s00216-020-02687-5))
+- [fiora](https://github.com/BAMresearch/fiora) - An in silico fragmentation algorithm designed to predict tandem mass spectra (MS/MS) with high accuracy. Using graph neural networks, FIORA models bond cleavages, fragment intensities, and estimates retention times (RT) and collision cross sections (CCS).
+
+#### Atomistic modelling
+- [equitrain](https://github.com/BAMresearch/equitrain) - Equitrain is an open-source software package designed to simplify the training and fine-tuning of machine learning universal interatomic potentials (MLIPs).
 - [SynCoTrainMP](https://github.com/BAMresearch/SynCoTrainMP) - Co-Training for Crystal Synthesizability Prediction.
 
 ## Large Language Models (LLMs)
