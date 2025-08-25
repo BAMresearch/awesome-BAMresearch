@@ -29,6 +29,10 @@ This list is updated once every month to record new developments at BAM.
 - [pymatgen](https://github.com/BAMresearch/pymatgen) – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
 
+#### LobsterPy
+- [LobsterPy](https://github.com/BAMresearch/LobsterPy) – Package to automatically analyze Lobster runs.
+- [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
+
 #### Diverse
 - [jupyter-analysis-tools](https://github.com/BAMresearch/jupyter-analysis-tools) – Common Python helpers for data analysis notebooks in GIT repositories.
 - [WavenumberAnalysis](https://github.com/BAMresearch/WavenumberAnalysis) – This project allows to perform wavenumber mapping using Matlab.
@@ -72,9 +76,6 @@ This list is updated once every month to record new developments at BAM.
 - [equitrain](https://github.com/BAMresearch/equitrain) - Equitrain is an open-source software package designed to simplify the training and fine-tuning of machine learning universal interatomic potentials (MLIPs).
 - [autoplex](https://github.com/BAMresearch/autoplex) – Software for generating and benchmarking machine learning (ML) based interatomic potentials.
 - [SynCoTrainMP](https://github.com/BAMresearch/SynCoTrainMP) - Co-Training for Crystal Synthesizability Prediction.
-##### LobsterPy
-- [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
-- [LobsterPy](https://github.com/BAMresearch/LobsterPy) – Package to automatically analyze Lobster runs.
 
 ## Large Language Models (LLMs)
 
