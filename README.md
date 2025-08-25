@@ -94,23 +94,28 @@ This list is updated once every month to record new developments at BAM.
 - [xdmfConverter](https://github.com/BAMresearch/xdmfConverter) – convert xdmf file written by dolfin including multiple attributes over time to a xdmf file summarizing all attributes for one time step together allowing additional filter functions from paraview.
 - [PGDrome](https://github.com/BAMresearch/PGDrome) – A FEniCS based python module of the Proper Generalized Decomposition (PGD) method. 
 
-#### Dynamic Light Scattering 
+#### Particle Scattering
+##### Dynamic Light Scattering
 - [McDLS](https://github.com/BAMresearch/McDLS) – Employs a Monte Carlo method to derive size distributions from dynamic light scattering (DLS) data. Based on [https://github.com/BAMresearch/McSAS](https://github.com/BAMresearch/McSAS).
+- [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on [https://doi.org/10.1007/s11051-020-04840-8]()(https://doi.org/10.1007/s11051-020-04840-8).
+- [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
+
+##### Small Angle Scattering
 - [McSAS](https://github.com/BAMresearch/McSAS) – A tool for extracting form-free size distributions of small-angle scattering (SAS) patterns using a Monte-Carlo method.
 - [McSAS3](https://github.com/BAMresearch/McSAS3) – Refactored McSAS for analysis of X-ray and neutron scattering data.
 - [McSAS3GUI](https://github.com/BAMresearch/McSAS3GUI) - Graphical User Interface for [McSAS3](https://github.com/BAMresearch/McSAS3)
-- [SPONGE](https://github.com/BAMresearch/SPONGE) – Simulates X-ray and Neutron scattering patterns from arbitrary shapes defined by STL files
-- [UltimaRatio](https://github.com/BAMresearch/UltimaRatio) – A high resolution 3D FFT package (primarily for X-ray scattering simulation).
 - [SasModelsExplorer](https://github.com/BAMresearch/SasModelsExplorer) - A PyQt-based interactive application to explore scattering models
 - [jupyter_tutorial_sas](https://github.com/BAMresearch/jupyter_tutorial_sas) – A programming tutorial for looking at SAS Data with Python. Part of the 'Better with Scattering' Workshop.
 - [Overview-of-SAXSess-Measurements](https://github.com/BAMresearch/Overview-of-SAXSess-Measurements) – Jupyter Notebooks for giving an overview or generating overview plots.
-- [MoDaCor](https://github.com/BAMresearch/MoDaCor) – new modular data corrections for any neutron or xray technique that produces 1D or 2D scattering/diffraction/imaging data.
-- [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on [https://doi.org/10.1007/s11051-020-04840-8]()(https://doi.org/10.1007/s11051-020-04840-8).
-- [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
 - [Utah-SAXS-Tools](https://github.com/BAMresearch/Utah-SAXS-Tools) – The Utah SAXS Tools (USToo), adapted for Python 3, originally by David P. Goldenberg, 2009-2012
 - [logbook2mouse](https://github.com/BAMresearch/logbook2mouse) - This library reads a measurement logbook and associated project/sample information and generates a script for a SAXS instrument. Currently still under development.
 - [MOUSEDataPipeline](https://github.com/BAMresearch/MOUSEDataPipeline) – Tools for (automatic) processing of the new MOUSE datafiles
-  
+
+##### X-ray Scattering
+- [SPONGE](https://github.com/BAMresearch/SPONGE) – Simulates X-ray and Neutron scattering patterns from arbitrary shapes defined by STL files
+- [UltimaRatio](https://github.com/BAMresearch/UltimaRatio) – A high resolution 3D FFT package (primarily for X-ray scattering simulation).
+- [MoDaCor](https://github.com/BAMresearch/MoDaCor) – new modular data corrections for any neutron or xray technique that produces 1D or 2D scattering/diffraction/imaging data.
+
 #### Radiobiology - TOPAS and the inclusion of nano particles
 - [nBio_docs](https://github.com/BAMresearch/nBio_docs) – TOPAS-nBio Documentation
 - [TOPAS-CellModels](https://github.com/BAMresearch/TOPAS-CellModels) – Cell Models for TOPAS/Geant4 and the inclusion of nano particles in particle scattering simulations.  The C++ classes in this repository extend the functionality of the TOPAS (http://www.topasmc.org/) MC program, which is itself a wrapper of the Geant4 MCS Toolkit (http://geant4.org).
