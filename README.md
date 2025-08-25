@@ -95,12 +95,9 @@ This list is updated once every month to record new developments at BAM.
 - [PGDrome](https://github.com/BAMresearch/PGDrome) – A FEniCS based python module of the Proper Generalized Decomposition (PGD) method. 
 
 #### Particle Scattering
-##### Dynamic Light Scattering
 - [McDLS](https://github.com/BAMresearch/McDLS) – Employs a Monte Carlo method to derive size distributions from dynamic light scattering (DLS) data. Based on [https://github.com/BAMresearch/McSAS](https://github.com/BAMresearch/McSAS).
 - [particle_concentration_from_dls](https://github.com/BAMresearch/particle_concentration_from_dls) – A python implementation for determining nanoparticle number concentrations from multi-angle dynamic light scattering (DLS) measurements. Based on [https://doi.org/10.1007/s11051-020-04840-8]()(https://doi.org/10.1007/s11051-020-04840-8).
 - [analyse_dls_with_contin](https://github.com/BAMresearch/analyse_dls_with_contin) – This repository contains Python code and a Jupyter Notebook running the original CONTIN program by S. Provencher on every DLS measurement (dynamic light scattering, aka. photon correlation spectroscopy, PCS) read from *.ASC files.
-
-##### Small Angle Scattering / X-ray Scattering
 - [McSAS](https://github.com/BAMresearch/McSAS) – A tool for extracting form-free size distributions of small-angle scattering (SAS) patterns using a Monte-Carlo method.
 - [McSAS3](https://github.com/BAMresearch/McSAS3) – Refactored McSAS for analysis of X-ray and neutron scattering data.
 - [McSAS3GUI](https://github.com/BAMresearch/McSAS3GUI) - Graphical User Interface for [McSAS3](https://github.com/BAMresearch/McSAS3)
