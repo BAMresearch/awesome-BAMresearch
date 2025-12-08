@@ -53,6 +53,9 @@ This list is updated once every month to record new developments at BAM.
 - [masterdata-template](https://github.com/BAMresearch/masterdata-template) – A template to create and work with data models in the BAM Data Store
 - [masterdata_test](https://github.com/BAMresearch/masterdata_test) – Repository for the webinar IV, phase IV.
 - [openbis-upload-helper](https://github.com/BAMresearch/openbis-upload-helper) – Upload Helper Tool and Parsers for OpenBIS in the BAM Data Store.
+- [openbis-utils](https://github.com/BAMresearch/openbis-utils) – A collection of basic yet useful Python utilities to interact with openBIS. 
+- [sigmabam2openbis](https://github.com/BAMresearch/sigmabam2openbis) - Mapper script to convert SigmaBAM chemical inventory exports into openBIS-compatible format.
+- [jsoned](https://github.com/BAMresearch/jsoned) - A full-stack application to visualize and edit entities and their relations defined in JSON Schema.
 - [openBIS2SQLite](https://github.com/BAMresearch/openBIS2SQLite)
 
 #### NFDI4Ing
@@ -203,6 +206,7 @@ This list is updated once every month to record new developments at BAM.
 
 #### Datasets
 - [MALDI-TOF-database](https://github.com/BAMresearch/MALDI-TOF-database) –  This project contains a database which classifies polymer structures according to their repeat unit masses, as obtained by MALDI ToF measurements.
+- [DACHS](https://github.com/BAMresearch/DACHS) - Database for Automation, Characterisation and Holistic Synthesis
 
 ## Tools / Utilities
 
@@ -225,6 +229,7 @@ This list is updated once every month to record new developments at BAM.
 #### Robot Operating System (ROS)
 - [rl_logging](https://github.com/BAMresearch/rl_logging) – RobotLibraries Logging Abstraction
 - [ros2_tools](https://github.com/BAMresearch/ros2_tools) – Tools for the Robot Operating System 2 (ROS 2)
+- [gnss-visual-inter-robot-tracking](https://github.com/BAMresearch/gnss-visual-inter-robot-tracking) – Software repository for GNSS/visual inter-robot tracking associated with the paper ['Combined GNSS/Visual Inter-Robot Tracking Method for Open-Path Gas Tomography'](https://github.com/BAMresearch/gnss-visual-inter-robot-tracking/blob/main/Lohrke_Sensors_2025_accepted_repo_copyright_notice.pdf)
 
 #### Diverse
 - [bam-load-based-testing](https://github.com/BAMresearch/bam-load-based-testing) - Two-mass building model for load-based testing of heat pumps. The model is used to define the inertial behavior of the heat sink.
