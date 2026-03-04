@@ -96,6 +96,7 @@ This list is updated once every month to record new developments at BAM.
 - [VMAP4Fenics](https://github.com/BAMresearch/VMAP4Fenics) – VMAP Wrapper for Fenics FEM Simulations.
 - [xdmfConverter](https://github.com/BAMresearch/xdmfConverter) – convert xdmf file written by dolfin including multiple attributes over time to a xdmf file summarizing all attributes for one time step together allowing additional filter functions from paraview.
 - [PGDrome](https://github.com/BAMresearch/PGDrome) – A FEniCS based python module of the Proper Generalized Decomposition (PGD) method. 
+- [ambit](https://github.com/marchirschvogel/ambit) - Open-source multi-physics finite element solver, supporting solid and fluid mechanics, fluid-structure interaction (FSI), and lumped-parameter models. 
 
 #### Particle Scattering
 - [McDLS](https://github.com/BAMresearch/McDLS) – Employs a Monte Carlo method to derive size distributions from dynamic light scattering (DLS) data. Based on [https://github.com/BAMresearch/McSAS](https://github.com/BAMresearch/McSAS).
