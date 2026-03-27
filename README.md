@@ -166,8 +166,14 @@ This list is updated once every month to record new developments at BAM.
 
 #### Controller-based Applications
 - [Micro_plastic_relationship_counseling](https://github.com/BAMresearch/Micro_plastic_relationship_counseling) – Server-Client socket implementation that allows for log file based error detection and termination of a program with a GUI.
-- [IOCLauncher](https://github.com/BAMresearch/IOCLauncher) - A simple dashboard to launch and keep track of command-line-launched services
+- [IOCLauncher](https://github.com/BAMresearch/IOCLauncher) - A simple dashboard to launch and keep track of command-line-launched services.
 - [apm_planner](https://github.com/BAMresearch/apm_planner) – APM Planner Ground Control Station (Qt).
+
+## Material Acceleration Platforms
+
+#### Onthologies
+- [Wet-Chemical Syntheses Ontology](https://github.com/BAMresearch/wcso) - Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) provides a semantic framework for the structured representation of knowledge related to the production of (nano)particles by wet chemical synthesis.
+- [MAPs at BAM](https://github.com/BAMresearch/MAPz_at_BAM) - Materials Acceleration Platform Center at BAM.
 
 ## Workflows
 
