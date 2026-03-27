@@ -36,6 +36,7 @@ This list is updated once every month to record new developments at BAM.
 #### Diverse
 - [jupyter-analysis-tools](https://github.com/BAMresearch/jupyter-analysis-tools) – Common Python helpers for data analysis notebooks in GIT repositories.
 - [WavenumberAnalysis](https://github.com/BAMresearch/WavenumberAnalysis) – This project allows to perform wavenumber mapping using Matlab.
+- [HEMPs-proton-conductivity](https://github.com/BAMresearch/HEMPs-proton-conductivity) – Statistical and empirical data analysis pipelines used to evaluate the structure-property relationships within High-Entropy Metal Phosphates (HEMPs).
 
 ## Research Data Management
 
