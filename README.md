@@ -87,7 +87,7 @@ This list is updated once every month to record new developments at BAM.
 
 ## Simulations
 
-#### Fenics - Finite Element (FE) model for the hardening of concrete
+#### Finite Element (FE) Tools
 - [fenics-constitutive](https://github.com/BAMresearch/fenics-constitutive) – Complex constitutive models beyond the FEniCS UFL.
 - [fenics-reinforcement](https://github.com/BAMresearch/fenics-reinforcement) - 
 - [fenics_helpers](https://github.com/BAMresearch/fenics_helpers) – Little Helper classes that come up repeatedly when writing solvers in FEniCS.
