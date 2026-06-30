@@ -13,6 +13,7 @@ This list is updated once every month to record new developments at BAM.
 - [Roughness-Analysis-by-Electron-Microscopy](https://github.com/BAMresearch/Roughness-Analysis-by-Electron-Microscopy) – Roughness analysis approach by electron microscopy for spherical microparticles.
 - [DF-TEM-PAW](https://github.com/BAMresearch/DF-TEM-PAW) – This repository contains the necessary sources and scripts to conduct automated precipitate analysis as demonstrated in [10.1007/s40192-023-00331-5]
 - [PassiveSmartDust](https://github.com/BAMresearch/PassiveSmartDust) – An adjustable image segmentation filter, combined with data procession used in the PSD project.
+- [caco3-thin-films](https://github.com/BAMresearch/caco3-thin-films) – Crystallographic characterisation and analysis of CaCO3 thin films.
 
 #### Spectroscopic Analysis
 - [HavNegpy](https://github.com/BAMresearch/HavNegpy) – HavNegpy is a python fit package to anaylze dielectric spectroscopy data. HavNeg is an acronym for Havriliak and Negami function, and the fit module is written specifically to analyze the dielectric loss and real part of AC conductivity data.
@@ -214,6 +215,7 @@ This list is updated once every month to record new developments at BAM.
 
 #### Datasets
 - [MALDI-TOF-database](https://github.com/BAMresearch/MALDI-TOF-database) –  This project contains a database which classifies polymer structures according to their repeat unit masses, as obtained by MALDI ToF measurements.
+- [MALDI-peak identifier](https://github.com/BAMresearch/MALDI-peaks) –  This tool is designed for the rapid identification of polymer repeat units and end-groups in MALDI-TOF mass spectra.
 - [DACHS](https://github.com/BAMresearch/DACHS) - Database for Automation, Characterisation and Holistic Synthesis
 
 ## Tools / Utilities
