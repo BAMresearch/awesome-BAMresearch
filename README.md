@@ -27,7 +27,7 @@ This list is updated once every month to record new developments at BAM.
 - [b-least-analysis](https://github.com/BAMresearch/b-least-analysis) – Calibration tool for measurement data with ISO 6143-based model fitting and uncertainty estimation.
 
 #### Atomistic Modelling
-- [pymatgen](https://github.com/BAMresearch/pymatgen) – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- [pymatgen](https://github.com/materialsproject/pymatgen) – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
 
 #### LobsterPy
@@ -179,8 +179,9 @@ This list is updated once every month to record new developments at BAM.
 ## Workflows
 
 #### Computational Materials Science
-- [Advanced_Jobflow_Tutorial](https://github.com/BAMresearch/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science.
-- [atomate2](https://github.com/BAMresearch/atomate2) – atomate2 is a library of computational materials science workflows.
+- [Advanced_Jobflow_Tutorial](https://github.com/JaGeo/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science.
+- [atomate2](https://github.com/materialsproject/atomate2) – atomate2 is a library of computational materials science workflows.
+- [autoplex](https://github.com/autoatml/autoplex) - autoplex is a library for automated machine learning potential training.
 
 #### Additive Manifacturing
 - [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
