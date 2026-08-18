@@ -32,7 +32,7 @@ This list is updated once every month to record new developments at BAM.
 
 #### LobsterPy
 - [LobsterPy](https://github.com/jageo/LobsterPy) – Package to automatically analyze Lobster runs.
-- [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
+- [lobster-database-paper-analysis-scripts](https://github.com/naik-aakash/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
 
 #### Diverse
 - [jupyter-analysis-tools](https://github.com/BAMresearch/jupyter-analysis-tools) – Common Python helpers for data analysis notebooks in GIT repositories.
@@ -79,7 +79,7 @@ This list is updated once every month to record new developments at BAM.
 
 #### ML for Atomistic Modelling
 - [equitrain](https://github.com/BAMresearch/equitrain) - Equitrain is an open-source software package designed to simplify the training and fine-tuning of machine learning universal interatomic potentials (MLIPs).
-- [autoplex](https://github.com/BAMresearch/autoplex) – Software for generating and benchmarking machine learning (ML) based interatomic potentials.
+- [autoplex](https://github.com/autoatml/autoplex) – Software for generating and benchmarking machine learning (ML) based interatomic potentials.
 - [SynCoTrainMP](https://github.com/BAMresearch/SynCoTrainMP) - Co-Training for Crystal Synthesizability Prediction.
 
 ## Large Language Models (LLMs)
@@ -181,7 +181,6 @@ This list is updated once every month to record new developments at BAM.
 #### Computational Materials Science
 - [Advanced_Jobflow_Tutorial](https://github.com/JaGeo/Advanced_Jobflow_Tutorial) – This is a repository containing an advanced tutorial for jobflow  (https://github.com/materialsproject/jobflow) related to computational materials science.
 - [atomate2](https://github.com/materialsproject/atomate2) – atomate2 is a library of computational materials science workflows.
-- [autoplex](https://github.com/autoatml/autoplex) - autoplex is a library for automated machine learning potential training.
 
 #### Additive Manifacturing
 - [amworkflow](https://github.com/BAMresearch/amworkflow) - Module for creating automated workflows in the context of concrete additive manufacturing.
