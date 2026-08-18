@@ -31,7 +31,7 @@ This list is updated once every month to record new developments at BAM.
 - [ZrV2O7-PDF-Refinement](https://github.com/BAMresearch/ZrV2O7-PDF-Refinement) - Python scripts specifically developed for structural refinement of Zirconium Vanadate (ZrV₂O₇).
 
 #### LobsterPy
-- [LobsterPy](https://github.com/BAMresearch/LobsterPy) – Package to automatically analyze Lobster runs.
+- [LobsterPy](https://github.com/jageo/LobsterPy) – Package to automatically analyze Lobster runs.
 - [lobster-database-paper-analysis-scripts](https://github.com/BAMresearch/lobster-database-paper-analysis-scripts) – Repository Consisting of analysis scripts.
 
 #### Diverse
