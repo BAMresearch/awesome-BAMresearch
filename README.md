@@ -22,7 +22,7 @@ Foundation layer providing data storage, management, interoperability, and FAIR 
 Software that orchestrates, documents, and automates scientific processes.
 ### General Workflow Frameworks
 - [probeye](https://github.com/BAMresearch/probeye) – A general framework for setting up parameter estimation problems.
-- [bayem](https://github.com/BAMresearch/bayem) – Implementation and derivation of "Variational Bayesian inference for a nonlinear forward model." [Chappell et al. 2008] for arbitrary, user-defined model errors.
+- [bayem](https://github.com/BAMresearch/bayem) – Implementation and derivation of "Variational Bayesian inference for a nonlinear forward model" for arbitrary, user-defined model errors.
 - [fenics-constitutive](https://fenics-constitutive.readthedocs.io/en/latest/) – Complex constitutive models beyond the FEniCS UFL.
 ### Domain-Specific Workflow Engines
 - [PepGM](https://github.com/BAMresearch/PepGM) - A probabilistic graphical model for taxonomic inference of viral proteome samples with associated confidence scores.
