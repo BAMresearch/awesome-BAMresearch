@@ -62,7 +62,7 @@ Reusable scientific software components for data evaluation and interpretation.
 - [fiora](https://github.com/BAMeScience/fiora) - An in silico fragmentation algorithm designed to predict tandem mass spectra (MS/MS) with high accuracy. Using graph neural networks, FIORA models bond cleavages, fragment intensities, and estimates retention times (RT) and collision cross sections (CCS).
 - [MALDI-peak identifier](https://github.com/BAMresearch/MALDI-peaks) –  This tool is designed for the rapid identification of polymer repeat units and end-groups in MALDI-TOF mass spectra.
 ### Microscopy & Imaging
-- [DF-TEM-PAW](https://github.com/BAMresearch/DF-TEM-PAW) – This repository contains the necessary sources and scripts to conduct automated precipitate analysis as demonstrated in [10.1007/s40192-023-00331-5]
+- [DF-TEM-PAW](https://github.com/BAMresearch/DF-TEM-PAW) – This repository contains the necessary sources and scripts to conduct automated precipitate analysis as demonstrated in [10.1007/s40192-023-00331-5](https://doi.org/10.1007/s40192-023-00331-5)
 - [ctsimu-toolbox](https://github.com/BAMresearch/ctsimu-toolbox) – CTSimU Software Toolbox.
 - [PassiveSmartDust](https://github.com/BAMresearch/PassiveSmartDust) – An adjustable image segmentation filter, combined with data procession used in the PSD project.
 - [automatic-sem-image-segmentation](https://github.com/BAMresearch/automatic-sem-image-segmentation) – Workflow for Simulation and Automatic Semantic Segmentation of Electron Microscopy Images.
