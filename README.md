@@ -26,6 +26,8 @@ Software that orchestrates, documents, and automates scientific processes.
 - [fenics-constitutive](https://fenics-constitutive.readthedocs.io/en/latest/) – Complex constitutive models beyond the FEniCS UFL.
 ### Domain-Specific Workflow Engines
 - [PepGM](https://github.com/BAMresearch/PepGM) - A probabilistic graphical model for taxonomic inference of viral proteome samples with associated confidence scores.
+- [atomate2](https://github.com/materialsproject/atomate2) - Open-source software for performing complex materials science workflows using simple Python functions.
+- [pyiron](https://pyiron.org/) - Integrated development environment (IDE) for computational materials science.
 ## 3. Computational Materials Chemistry & Materials Acceleration Platforms (MAPs)
 Repositories focused on understanding and designing materials through atomic-scale modeling and automated laboratories.
 ### Bonding & Electronic Structure
@@ -68,7 +70,7 @@ Reusable scientific software components for data evaluation and interpretation.
 - [automatic-sem-image-segmentation](https://github.com/BAMresearch/automatic-sem-image-segmentation) – Workflow for Simulation and Automatic Semantic Segmentation of Electron Microscopy Images.
 - [Roughness-Analysis-by-Electron-Microscopy](https://github.com/BAMresearch/Roughness-Analysis-by-Electron-Microscopy) – Roughness analysis approach by electron microscopy for spherical microparticles.
 ## 5. Digital Twins & Virtual Experiments
-Virtual representations of materials, structures, and processes.
+Virtual representations of structures and processes.
 ### Digital Twins
 - [NibelungenbrueckeDemonstrator](https://github.com/BAMresearch/NibelungenbrueckeDemonstrator) – Provides a representative and repeatable workflow for the implementation of a stochastic Digital Twin (DT) of the Nibelungenbrücke in Worms (Germany).
 - [SpecTwin](https://github.com/cakirtufan/SpecTwin) - Modular Python application for X-ray Emission spectroscopy workflows.
